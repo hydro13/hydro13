@@ -11,6 +11,8 @@
 
 </div>
 
+*I build things that should not exist yet.*
+
 ---
 
 ## about me

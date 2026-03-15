@@ -21,7 +21,7 @@ Currently building tools for the human-AI era — not just using AI, but designi
 
 - 🦞 **OpenClaw Maintainer** — contributing to the open-source AI assistant platform
 - 🌐 **Tandem Browser** — local-first browser built for human-AI collaboration
-- 🏢 **AI Architect @ [Mblock BV](https://mblock.be)** — Belgium
+- 🏢 **AI Architect @ [Mblock BV — Belgium
 - 🔒 Security-first mindset in everything I build
 
 ---

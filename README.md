@@ -6,7 +6,7 @@
 
 [![OpenClaw Maintainer](https://img.shields.io/badge/OpenClaw-Maintainer-6E40C9?style=for-the-badge)](https://openclaw.ai)
 [![Location](https://img.shields.io/badge/Belgium-Herent-ED2939?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Email](https://img.shields.io/badge/robin%40openclaw.ai-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin@openclaw.ai)
+[![X](https://img.shields.io/badge/@Robin__waslander-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Robin_waslander)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-robinwaslander-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinwaslander)
 
 </div>

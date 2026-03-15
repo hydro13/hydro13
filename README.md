@@ -33,7 +33,7 @@ Currently building tools for the human-AI era — not just using AI, but designi
 | 🌐 | **[Tandem Browser](https://github.com/hydro13/tandem-browser)** | AI-human symbiotic browser. The human browses. AI acts. Both see the same page. |
 | 🦞 | **[OpenClaw](https://github.com/openclaw/openclaw)** | The AI assistant platform I maintain — run your own AI on your own devices |
 | 🎙 | **[ClaroNote](https://claronote.com)** | Voice-to-text SaaS with AI enhancement |
-| 📋 | **[Kanbu](https://github.com/hydro13/kanbu))** **Kanbu**  | AI project management platform with 150+ MCP tools |
+| 📋 | **[Kanbu](https://github.com/hydro13/kanbu)** **Kanbu**  | AI project management platform with 150+ MCP tools |
 
 ---
 
